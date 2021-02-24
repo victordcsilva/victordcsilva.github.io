@@ -10,11 +10,7 @@ header {
 nav{
     text-align: right;
 }
-h1{
-    font-family: "Bungee",sans-serif ;
-    color: #f9ca24;
-    text-shadow: 2px 2px 0px #535c68;
-}
+
 a {
     display:inline-flex;
     align-items: center;
@@ -32,6 +28,9 @@ a::before{
     width: 10px;
     height: 10px;
     margin-right: 10px;
+}
+a:hover{
+    color: #f9ca24;   
 }
 
 #button{
