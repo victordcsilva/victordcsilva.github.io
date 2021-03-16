@@ -1,0 +1,11 @@
+.header {
+    display:flex;
+    justify-content: space-between;
+    background-color: #686de0 ;
+    align-items: center;
+    border-bottom: 10px solid #535c68;
+    padding: 10px 20px;
+}
+.header .navegation{
+    text-align: right;
+}
