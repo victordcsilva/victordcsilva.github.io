@@ -2,9 +2,10 @@
     box-sizing: border-box;
     background-image: url(../../assets/img/imagem.png);
     background-repeat: no-repeat;
+    /*background-color: #130f40;*/
     background-size: 100%;
     height: 800px;
-    border-bottom: 10px solid #535c68;
+    border-bottom: 10px solid #000;
     padding-top: 115px;
     padding-left: 90px;
 

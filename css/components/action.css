@@ -1,5 +1,5 @@
 .action:hover{
-    color: #f9ca24;   
+    color: #f0932b;   
 }
 .action {
     display:inline-flex;
@@ -14,7 +14,7 @@
 }
 .action::before{
     content: "";
-    background-color: #f9ca24;
+    background-color: #f0932b;
     width: 10px;
     height: 10px;
     margin-right: 10px;

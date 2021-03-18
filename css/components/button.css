@@ -1,9 +1,9 @@
 .button{
     color: #535c68;
     display: inline-block;
-    background-color: #f9ca24;
+    background-color: #f0932b;
     padding: 17px 17px 20px 18px; /*top botton left right*/
-    box-shadow: 5px 5px 0px #535c68;
+    box-shadow: 5px 5px 0px #000;
     margin-right: 0;
     transition: transform 100ms linear;
     color: #FFF;
