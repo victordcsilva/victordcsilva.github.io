@@ -1,11 +1,17 @@
 .skill{
     display: flex;
+    align-items: center;
     font-family: sans-serif;
     font-size: 25px;
     color: #FFF;
 }
 .skill .icon{
     margin-right: 25px;
+    width: 90px;
+}
+
+.skill .title{
+    margin-bottom: 16px;
 }
 
 .skill .right {
